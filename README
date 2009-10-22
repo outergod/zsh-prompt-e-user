@@ -1,5 +1,7 @@
 e-user zsh prompt
 =================
+Place prompt_e-user_setup into ~/.zsh.d/functions/
+
 To activate permanently, add
 autoload -U promptinit && promptinit && prompt e-user
 to your ~/.zshrc.
