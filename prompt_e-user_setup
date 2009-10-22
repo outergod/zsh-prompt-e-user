@@ -3,9 +3,6 @@
 # Converted to zsh prompt theme by <adam@spiers.net>
 # adam2 bastard hack by e-user <e-user@gmx.net>
 
-# $Id: prompt_e-user_setup 202 2009-02-20 17:30:23Z e-user $
-# $HeadURL: https://exergonic.org/repos/sys/e-user/trunk/.zsh.d/functions/prompt_e-user_setup $
-
 prompt_e-user_help () {
   cat <<EOH
 This prompt is color-scheme-able.  You can invoke it thus:
